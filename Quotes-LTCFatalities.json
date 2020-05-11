@@ -1,0 +1,32 @@
+{
+  "quotes" : [
+      {
+      "txt": "We talk in this country so, so much about equality. You know, dealing with prejudice, dealing with all these types of things. But we really tend to skim over our reaction to older people, and I think that that is one of the core features that has allowed this to happen.",
+      "identity": "Kerry Bowman, professor of bioethics and global health at the University of Toronto",
+      "article": "How Canada’s nursing homes can be fixed to avoid repeat of COVID-19 outbreak, Global News, May 5, 2020"
+      },
+    {
+      "txt": "I never knew people were dying. That was just unbelievable, that suddenly this information is just dropped in the middle of my supper.",
+      "identity": "Jaqueline Mitchell, daughter of 94-year-old Eatonville Care Centre resident Lena Mitchell",
+      "article": "As COVID-19 deaths mount in long-term care homes, families demand more timely information, CBC, April 18, 2020"
+    },
+
+    {
+      "txt": "This wasn't just foreseeable, it was foreseen. We saw it coming in Italy. We saw it coming in Spain, let alone what was happening in Asia. And we knew that people in long-term facilities would be left without the care they need.",
+      "identity": "Laura Tamblyn Watts, CEO of CanAge.",
+      "article": "Advocates wonder why long-term care COVID warnings were ignored, CBC, April 14, 2020"
+    },
+
+    {
+      "txt": "It’s like the elderly are completely forgotten.",
+      "identity": "Leane Conti, daughter of 79-year-old resident of Residence Herron",
+      "article": "Montreal nurse with COVID-19 symptoms worked at nursing home where at least 30 residents died, Global News, April 15, 2020"
+    },
+
+    {
+      "txt": "PSWs are crying before they go in for their shifts in long-term care. They cry in their cars.",
+      "identity": "Miranda Ferrier, president of the Canadian Support Workers Association",
+      "article": "'These people are dying, gasping for air': Care home workers are at the frontlines of Canada’s COVID-19 outbreaks, The Globe and Mail, April 7, 2020"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+
+  font-family: 'Oswald';font-size: 10px;
+  font-color: #303030;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: top;
+}
+
+a {
+  color: #f1efe3;
+}

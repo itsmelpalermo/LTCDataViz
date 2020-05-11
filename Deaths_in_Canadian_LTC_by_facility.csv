@@ -1,0 +1,271 @@
+Facility,Location,Province,Province Lat,Province Lon,Facility Lat,Facility Lon,Number of dead,Number of beds in location (appx),Public or private
+Agecare Sunrise Garden,Brooks,AB,53.9333,-116.5765,50.583641,-111.900538,3,,Private
+Bethany Care Centre,Calgary,AB,53.9333,-116.5765,51.063796,-114.104275,1,,
+Carewest Sarcee Continuing Care Facility,Calgary,AB,53.9333,-116.5765,51.0223,-114.127039,2,85,Public
+Clifton Manor,Calgary,AB,53.9333,-116.5765,51.045694,-113.967449,7,,Private
+Extendicare Hillcrest,Calgary,AB,53.9333,-116.5765,51.060012,-114.095155,5,,Private
+High River Long Term Care,High River,AB,53.9333,-116.5765,50.576527,-113.879483,1,,
+Intercare Brentwood,Calgary,AB,53.9333,-116.5765,51.067798,-114.125105,5,,Private
+JB Wood Continuing Care Centre,High Prairie,AB,53.9333,-116.5765,55.435374,-116.482727,2,,Public
+Manoir du Lac centre,McLennan,AB,53.9333,-116.5765,55.71202,-116.910905,9,,Private
+McKenzie Towne Continuing Care Centre,Calgary,AB,53.9333,-116.5765,50.914343,-113.962533,22,,Private
+Millrise Seniors Village,Calgary,AB,53.9333,-116.5765,50.919357,-114.073641,2,,Private
+Shepherd’s Care Kensington Village,Edmonton,AB,53.9333,-116.5765,53.596047,-113.539656,4,,Private
+Amica Edgemont Village,North Vancouver,BC,53.7267,-127.6476,49.338513,-123.100853,3,,Private
+Berkley Care Centre,North Vancouver,BC,53.7267,-127.6476,49.312466,-123.005544,5,,
+Chartwell Willow Long-term Care ,Maple Ridge,BC,53.7267,-127.6476,49.225382,-122.602035,2,,
+Dufferin Care Centre,Coquitlam,BC,53.7267,-127.6476,49.279039,-122.803888,4,,
+Haro Park,Vancouver,BC,53.7267,-127.6476,49.285965,-123.128502,12,,
+Lynn Valley Care Centre,North Vancouver,BC,53.7267,-127.6476,49.334173,-123.044783,20,,Private
+Mission Institution*,Mission,BC,53.7267,-127.6476,49.164415,-122.288661,1,,
+New Vista Care Home,Burnaby,BC,53.7267,-127.6476,49.224775,-122.946347,1,,
+Residence at Clayton Heights,Surrey,BC,53.7267,-127.6476,49.131587,122.702629,2,,
+Royal Arch Masonic Home,Vancouver,BC,53.7267,-127.6476,49.213677,-123.029376,9,,
+Shaughnessy Care Centre,Port Coquitlam,BC,53.7267,-127.6476,49.260802,-122.77973,1,,
+Swedish Assisted Living,Vancouver,BC,53.7267,-127.6476,49.267422,-122.952653,3,,
+Valhaven Home,Abbotsford,BC,53.7267,-127.6476,49.079039,-122.385368,1,,
+Windermere Care Centre,Vancouver,BC,53.7267,-127.6476,49.260547,-123.125013,1,,
+Poseidon Care Centre,Winnipeg,MB,53.7609,-98.8139,49.853201,-97.174366,1,,Private
+Admiral Long Term Care Centre,Dartmouth,NS,44.682,-63.7443,44.684511,-63.545543,1,,Public
+Harbourstone Enhanced Care,Sydney River,NS,44.682,-63.7443,46.107729,-60.214553,3,,
+Northwood Manor,Halifax,NS,44.682,-63.7443,44.658116,-63.59224,41,485,
+Almonte Country Haven,Almonte,ON,51.2538,-85.3232,45.218857,-76.189784,26,82,Private
+Altamont Care Community,Scarborough,ON,51.2538,-85.3232,43.798766,-79.140019,46,159,"Private, "
+Amica Riverside,Windsor,ON,51.2538,-85.3232,42.3283,-82.979602,2,96,Private
+Anson Place Care Centre,Hagersville,ON,51.2538,-85.3232,42.967538,-80.048085,27,121,Private
+AR Goudie LTC,Kitchener,ON,51.2538,-85.3232,43.456759,-80.473911,9,80,Private
+Baycrest Apotex Centre - Jewish Home for the Aged,Toronto,ON,51.2538,-85.3232,43.730106,-79.434237,2,472,Private
+Bethany Lodge,Markham,ON,51.2538,-85.3232,43.862178,-79.302033,1,128,Public
+Bradford Valley,Bradford,ON,51.2538,-85.3232,44.099887,-79.572508,10,246,Private
+Bradgate Arms RH,Toronto,ON,51.2538,-85.3232,43.685833,-79.400633,2,246,Private
+Burton Manor,Brampton,ON,51.2538,-85.3232,43.661635,-79.7734,6,128,Private
+CAMH,Toronto,ON,51.2538,-85.3232,43.64296,-79.418446,2,,
+Camilla Care Community,Mississauga,ON,51.2538,-85.3232,43.573386,-79.607084,50,237,Private
+Canterbury Place Retirement Residence,Toronto,ON,51.2538,-85.3232,43.772339,-79.414422,3,,
+Cardinal Retirement,Hamilton,ON,51.2538,-85.3232,43.249477,-79.87316,8,,
+Carlingview Manor,Ottawa,ON,51.2538,-85.3232,45.36734,-75.77667,28,303,Private
+Carolina Retirement Residence,Perth,ON,51.2538,-85.3232,44.89917,-76.258066,1,,
+Chartwell Aurora Long-Term Care Home,Aurora,ON,51.2538,-85.3232,43.998028,-79.471419,10,235,Private
+Chartwell Ballycliffe Long-Term Care,Ajax,ON,51.2538,-85.3232,43.851204,-79.025381,28,100,Private
+Chartwell Gibson Long Term Care Residence,North York,ON,51.2538,-85.3232,43.807791,-79.373758,9,202,Private
+Chartwell Pickering City,Pickering,ON,51.2538,-85.3232,43.838258,-79.080418,1,,Private
+Chartwell Westbury Long Term Care,Etobicoke,ON,51.2538,-85.3232,43.648635,-79.567958,20,187,Private
+Chartwell White Eagle,Toronto,ON,51.2538,-85.3232,43.637419,-79.438979,11,57,Private
+Cooksville Care Centre,Mississauga,ON,51.2538,-85.3232,43.573536,-79.609683,5,,
+Country Village Homes ,Woodslee,ON,51.2538,-85.3232,42.172618,-82.721297,19,104,Private
+Craiglee Nursing Home,Scarborough,ON,51.2538,-85.3232,43.707043,-79.253301,1,,
+Cummer Lodge,North York,ON,51.2538,-85.3232,43.788886,-79.407796,1,,
+Douglas Crossing Retirement Home,Uxbridge,ON,51.2538,-85.3232,44.091605,-79.130565,3,,
+Downsview Long Term Care Centre,North York,ON,51.2538,-85.3232,43.751447,-79.486225,33,252,Private
+Dufferin Oaks,Shelburne  ,ON,51.2538,-85.3232,44.076737,-80.200095,2,160,Public
+Dundurn Place Care Centre,Hamilton,ON,51.2538,-85.3232,43.256577,-79.863728,2,201,Private
+Eagle Terrace Long-Term Care Home,Newmarket,ON,51.2538,-85.3232,44.0491,-79.463495,1,70,Private
+Earls Court Village,London,ON,51.2538,-85.3232,43.027049,-81.218683,1,128,Private
+Eatonville Care Centre,Etobicoke,ON,51.2538,-85.3232,43.647827,-79.560415,40,247,Private
+Élisabeth-Bruyère Residence,Ottawa,ON,51.2538,-85.3232,45.432425,-75.696105,1,,
+Elm Grove Living Centre,Toronto,ON,51.2538,-85.3232,43.640387,-79.430719,18,126,Private
+Emmanuel House Hospice,Hamilton,ON,51.2538,-85.3232,43.248582,-79.8574,2,,
+Erin Mills Lodge,Mississauga,ON,51.2538,-85.3232,43.535086,-79.667535,16,86,Private
+Extendicare Bayview,Toronto,ON,51.2538,-85.3232,43.793981,-79.390836,7,205,Private
+Extendicare Brampton,Brampton,ON,51.2538,-85.3232,43.655564,-79.73563,1,,
+Extendicare Guildwood,Scarborough,ON,51.2538,-85.3232,43.747036,-79.203129,7,,
+Extendicare Laurier Manor,Gloucester,ON,51.2538,-85.3232,45.446544,-75.611005,21,242,Private
+Extendicare Scarborough,Scarborough,ON,51.2538,-85.3232,43.763523,-79.210352,1,,
+Forest Heights Revera,Waterloo,ON,51.2538,-85.3232,43.428854,-80.529995,45,240,Private
+Grace Manor,Brampton,ON,51.2538,-85.3232,43.652947,-79.741153,11,120,Private
+Grand Wood Park RH,London,ON,51.2538,-85.3232,42.971122,-81.241708,3,,Private
+Greenwood Court,Stratford,ON,51.2538,-85.3232,43.383295,-80.975792,4,45,Private
+Harold and Grace Baker centre,Toronto,ON,51.2538,-85.3232,43.698439,-79.46981,14,120,Private
+Hastings Manor,Belleville,ON,51.2538,-85.3232,44.146225,-77.412105,2,253,Public
+Hawthorne Place Care Centre,North York,ON,51.2538,-85.3232,43.756467,-79.521497,31,269,Private
+Hellenic Home,Scarborough,ON,51.2538,-85.3232,43.748958,-79.274167,9,128,Private
+Henley Place,London,ON,51.2538,-85.3232,43.046138,-81.215701,2,192,Private
+Heritage Green,Stoney Creek,ON,51.2538,-85.3232,43.193722,-79.789667,4,167,Private
+Heron Terrace Long Term Care Community,Windsor,ON,51.2538,-85.3232,42.317502,-82.899276,18,140,Private
+Highview Residences RH,Waterloo,ON,51.2538,-85.3232,43.372533,-80.42296,7,21,Private
+Hillcrest Reactivation Centre,Toronto,ON,51.2538,-85.3232,43.677779,-79.415538,5,,Public
+Hillsdale Terraces,Oshawa,ON,51.2538,-85.3232,43.915172,-78.864477,14,200,Public
+Humber Valley Terrace,Etobicoke,ON,51.2538,-85.3232,43.727453,-79.5964,9,,Private
+Ina Grafton Gage Villa Retirement,Scarborough,ON,51.2538,-85.3232,43.200396,-79.22535,23,,Private
+Ina Grafton Gage Villa Retirement,St. Catharines,ON,51.2538,-85.3232,43.200396,-79.22535,1,128,Private
+Isabel and Arthur Meighen Manor,Toronto,ON,51.2538,-85.3232,43.700217,-79.392539,42,168,Private
+Kensington Village,London,ON,51.2538,-85.3232,43.021824,-81.215738,5,126,Private
+Kipling Acres,Toronto,ON,51.2538,-85.3232,43.725024,-79.571846,13,,Public
+Kristus Darzs Latvian Home,Woodbridge,ON,51.2538,-85.3232,43.871576,-79.595271,5,100,Private
+L'chaim Retirement Home,Toronto,ON,51.2538,-85.3232,43.754448,-79.445312,3,,
+Lakeshore Lodge Nursing Home,Toronto,ON,51.2538,-85.3232,43.597306,-79.518545,11,150,Public
+Lanark Heights,Waterloo,ON,51.2538,-85.3232,43.424547,-80.535485,3,160,
+Landmark Village,Sarnia,ON,51.2538,-85.3232,42.983296,-82.355231,6,,Private
+Lundy Manor,Niagara Falls,ON,51.2538,-85.3232,43.088514,-79.12813,18,,Private
+Mackenzie Place Long-term Care Home,Newmarket,ON,51.2538,-85.3232,44.057495,-79.478834,12,93,Private
+Madonna Care Community,Orleans,ON,51.2538,-85.3232,45.460613,-75.559889,30,160,Private
+Manoir Marochel,Ottawa,ON,51.2538,-85.3232,45.447965,-75.628136,7,,
+Maplewood Retirement Community,Ottawa,ON,51.2538,-85.3232,45.411316,-75.653486,2,,
+Markhaven Home for Seniors,Markham,ON,51.2538,-85.3232,43.883912,-79.254183,18,96,Private
+McCall Centre for Continuing Care,Toronto,ON,51.2538,-85.3232,43.610159,-79.562051,1,21,Public
+Meadow Park Nursing Home,London ,ON,51.2538,-85.3232,42.946781,-81.2016,1,126,Private
+Midland Gardens Care Community,Scarborough,ON,51.2538,-85.3232,43.708552,-79.247514,1,,
+Mon Sheong,Toronto,ON,51.2538,-85.3232,43.655318,-79.393193,32,105,Private
+Montfort Long-term Care Centre,Ottawa,ON,51.2538,-85.3232,45.446877,-75.640635,27,126,Private
+Mountainview Residence,Georgetown,ON,51.2538,-85.3232,43.662423,-79.919636,10,,
+New Horizons Tower,Toronto,ON,51.2538,-85.3232,43.660019,-79.436027,3,,
+New Leaf Pines Residence*,Newmarket,ON,51.2538,-85.3232,44.117162,-79.444769,1,,
+Norfolk Manor,Guelph,ON,51.2538,-85.3232,43.546834,-80.253868,5,,
+Orchard Villa LTC,Pickering,ON,51.2538,-85.3232,43.846497,-79.08386,67,233,Private
+Orchard Villa Retirement,Pickering,ON,51.2538,-85.3232,43.846628,-79.083903,5,,
+Owen Hill Care Community,Barrie,ON,51.2538,-85.3232,44.395223,-79.690277,3,,
+Participation House*,Markham,ON,51.2538,-85.3232,43.891793,-79.23411,5,,
+Peel Manor Long Term Care Centre,Brampton,ON,51.2538,-85.3232,43.700209,-79.781265,2,177,Public
+Perley and Rideau Veterans' Health Centre,Ottawa,ON,51.2538,-85.3232,45.404704,-75.635698,7,450,Private
+Peter D. Clark Centre,Ottawa,ON,51.2538,-85.3232,45.343417,-75.759132,1,,Public
+Pickering City Centre Retirement Home,Pickering,ON,51.2538,-85.3232,43.83825,-79.08045,1,,
+Pinecrest,Plantagenet,ON,51.2538,-85.3232,45.542238,-74.998065,6,,
+Pinecrest Nursing Home*,Bobcaygeon,ON,51.2538,-85.3232,44.528624,-78.533851,30,65,Private
+Promenade Retirement Residence,Orleans,ON,51.2538,-85.3232,45.489888,-75.503775,4,117,Private
+Providence Healthcare,Scarborough,ON,51.2538,-85.3232,43.712192,-79.2848,1,288,Private
+Queens Estate Retirement Residence,Toronto,ON,51.2538,-85.3232,43.707434,-79.504251,4,,
+ReachView Village,Uxbridge,ON,51.2538,-85.3232,44.104292,-79.111814,1,,
+Reactivation Care Centre,Toronto,ON,51.2538,-85.3232,43.754258,-79.526404,1,,
+Reena Lebovic Community Residence*,Thornhill,ON,51.2538,-85.3232,43.854164,-79.463961,1,,
+Rekai Centre (Sherbourne),Toronto,ON,51.2538,-85.3232,43.662879,-79.372694,18,126,Private
+Residence St. Louis ,Ottawa,ON,51.2538,-85.3232,45.483244,-75.546325,1,198,Private
+River Glen Haven Nursing Home,Sutton West,ON,51.2538,-85.3232,44.304099,-79.361648,1,,
+Royal Rose Place,Welland,ON,51.2538,-85.3232,42.999856,-79.268608,16,96,Private
+Salvation Army / Toronto Grace,Toronto,ON,51.2538,-85.3232,43.670569,-79.383183,1,,
+Seasons Retirement Communities,Welland,ON,51.2538,-85.3232,43.002111,-79.260732,5,160,Private
+Seven Oaks,Scarborough,ON,51.2538,-85.3232,43.781926,-79.203181,40,249,Public
+Shelburne Residence Retirement and Nursing Home,Shelburne,ON,51.2538,-85.3232,44.082936,-80.204355,15,60,Private
+Sheridan Villa,Mississauga,ON,51.2538,-85.3232,43.510796,-79.648317,1,142,Public
+Sisters of St. Joseph,London,ON,51.2538,-85.3232,43.018086,-81.265129,1,,Convent
+St. Clair O’Connor Community Care,East York,ON,51.2538,-85.3232,43.705648,-79.311999,8,25,Private
+St. Joseph’s at Fleming*,Peterborough,ON,51.2538,-85.3232,44.268472,-78.370083,1,,
+St. Joseph’s Villa,Sudbury,ON,51.2538,-85.3232,46.466264,-80.966225,1,,
+Stoneridge Manor,Carleton Place,ON,51.2538,-85.3232,45.135956,-76.154108,6,60,Private
+Sun Parlor Home for Senior Citizens,Leamington,ON,51.2538,-85.3232,42.057032,-82.590105,1,206,Public
+Sunrise of Unionville,Markham,ON,51.2538,-85.3232,43.863282,-79.299124,2,,
+The Kensington Gardens,Toronto,ON,51.2538,-85.3232,43.658455,-79.404165,8,350,Private
+The Village of Erin Meadows,Mississauga,ON,51.2538,-85.3232,43.553277,-79.721608,17,180,Private
+The Village of Humber Heights - LTC,Etobicoke,ON,51.2538,-85.3232,43.697247,-79.526556,12,,Private
+The Village of Humber Heights - RH,Etobicoke,ON,51.2538,-85.3232,43.697247,-79.526556,16,250,Private
+The Villiage at University Gates,Waterloo,ON,51.2538,-85.3232,43.477086,-80.571109,1,,Private
+Trinity Village LTC,Kitchener,ON,51.2538,-85.3232,43.430008,-80.441675,14,150,Private
+Ukranian Canadian Care Centre,Etobicoke,ON,51.2538,-85.3232,43.684422,-79.518947,1,,
+University of Ottawa Heart Institute,Ottawa,ON,51.2538,-85.3232,45.394327,-75.72066,1,,
+Unnamed LTC facilities,Peel region,ON,51.2538,-85.3232,43.6766,-79.7848,9,,
+Unnamed LTC facilities,Guelph,ON,51.2538,-85.3232,43.553758,-80.252539,4,,
+Valley View Residence,Toronto,ON,51.2538,-85.3232,43.771032,-79.446355,2,174,Private
+Victoria Place RH,Kitchener,ON,51.2538,-85.3232,43.446953,-80.492816,4,,
+Villa Colombo Vaughan Di Poce Centre,Kleinburg,ON,51.2538,-85.3232,43.839736,-79.631747,16,160,Private
+Villa Forum,Mississauga,ON,51.2538,-85.3232,43.611895,-79.651422,9,160,Private
+Villa Leonardo Gambin,Woodbridge,ON,51.2538,-85.3232,43.766274,-79.574225,10,168,Private
+Vision Nursing Home,Sarnia,ON,51.2538,-85.3232,42.968371,-82.403687,3,37,
+Wellesley Central Place,Toronto,ON,51.2538,-85.3232,43.667012,-79.375652,16,150,Private
+West Park Long Term Care Centre,Toronto,ON,51.2538,-85.3232,43.690022,-79.509198,20,200,Private
+Weston Terrace Care Community,Toronto,ON,51.2538,-85.3232,43.701316,-79.51018,13,224,Private
+Wynfield Retirement Retirement Residence,Oshawa,ON,51.2538,-85.3232,43.946613,-78.873684,1,,
+Antoniennes de Marie*,Chicoutimi,QC,52.9399,-73.5491,48.423991,-71.039211,4,48,
+Centre Benjamin Viger,Montreal,QC,52.9399,-73.5491,45.490849,-73.869937,1,,
+Centre Cloutier-du Rivage,Trois-Rivières,QC,52.9399,-73.5491,46.364994,-72.504584,1,,
+Château Beaurivage,Montreal North,QC,52.9399,-73.5491,45.627849,-73.619815,1,,
+CHLSD Bayview,Montreal,QC,52.9399,-73.5491,45.448638,-73.78664,1,,
+CHSLD Alfred-Desrochers ,Montreal,QC,52.9399,-73.5491,45.491003,-73.627514,5,,
+CHSLD Auclair,Montreal,QC,52.9399,-73.5491,45.539798,-73.608304,9,,
+CHSLD Berthiaume-Du Tremblay,Montreal,QC,52.9399,-73.5491,45.566915,-73.66253,50,,Private
+CHSLD Cartierville,Montreal,QC,52.9399,-73.5491,45.531586,-73.717344,8,,
+CHSLD Champlain,Montreal,QC,52.9399,-73.5491,45.439042,-73.586779,1,,Public
+CHSLD Champlain–Marie-Victorin,Monreal,QC,52.9399,-73.5491,45.616291,-73.604547,1,,Private
+CHSLD Cooke,Trois-Rivières,QC,52.9399,-73.5491,46.344746,-72.577234,1,,
+CHSLD de Chicoutimi-Nord,Saguenay,QC,52.9399,-73.5491,48.417053,-71.075705,18,,
+CHSLD de la Colline,Chicoutimi,QC,52.9399,-73.5491,48.409453,-71.072492,21,,Public
+CHSLD de la Maison,Valleyfield,QC,52.9399,-73.5491,45.302354,-74.035126,1,,
+CHSLD de La Petite-Patrie,Montreal,QC,52.9399,-73.5491,45.546297,-73.60062,10,,
+CHSLD de la Rive ,Laval,QC,52.9399,-73.5491,45.562352,-73.858644,1,,
+CHSLD de Lasalle,LaSalle,QC,52.9399,-73.5491,45.426879,-73.62254,43,,Public
+CHSLD de Nicolet,Nicolet,QC,52.9399,-73.5491,45.547692,-73.548455,7,,
+CHSLD des Moulins,Lanaudière,QC,52.9399,-73.5491,45.687687,-73.728787,7,,
+CHSLD des Seigneurs,Montreal,QC,52.9399,-73.5491,45.489734,-73.571245,1,,
+CHSLD Drapeau-Deschambault,Sainte-Thérèse,QC,52.9399,-73.5491,45.640553,-73.840923,1,,
+CHSLD Émile McDuff,Lanaudière,QC,52.9399,-73.5491,45.788632,-73.40789,15,,Private
+CHSLD Fernand-Larocque,Laval,QC,52.9399,-73.5491,45.615661,-73.644031,24,,Public
+CHSLD Idola-Saint-Jean,Laval,QC,52.9399,-73.5491,45.558198,-73.693928,2,,
+CHSLD Jean-De La Lande,Montreal,QC,52.9399,-73.5491,45.531315,-73.57012,2,,
+CHSLD Jean-Hubert-Biermans,Montreal,QC,52.9399,-73.5491,45.596492,-73.535612,1,,
+CHSLD Joseph-François-Perreault,Montreal,QC,52.9399,-73.5491,45.559982,-73.601941,20,,Public
+CHSLD la Pinière,Laval,QC,52.9399,-73.5491,45.574885,-73.766413,40,100,Public
+CHSLD Lachine,Lachine,QC,52.9399,-73.5491,45.449437,-73.690596,1,,
+CHSLD Laflèche,Shawinigan,QC,52.9399,-73.5491,46.608364,-72.706842,44,,Public
+CHSLD Laurendeau,Montreal,QC,52.9399,-73.5491,45.568277,-73.662013,78,,Public
+CHSLD Le Cardinal,Montreal,QC,52.9399,-73.5491,45.652578,-73.488583,1,,
+CHSLD Le Faubourg,Quebec City,QC,52.9399,-73.5491,46.807456,-71.224339,1,,Public
+CHSLD Légaré,Montreal,QC,52.9399,-73.5491,45.558746,-73.635078,5,,
+CHSLD Lionel-Émond ,Gatineau,QC,52.9399,-73.5491,45.445444,-75.748422,5,,
+CHSLD Lucien G.-Rolland ,St-Jerôme,QC,52.9399,-73.5491,45.764248,-74.002193,5,,
+CHSLD Manoir de Verdun,Verdun,QC,52.9399,-73.5491,45.454569,-73.567062,9,,
+CHSLD Mgr Paquin ,Saint-Tite,QC,52.9399,-73.5491,46.728142,-72.560458,12,,Public
+CHSLD Nazaire-Piché,Montreal,QC,52.9399,-73.5491,45.438553,-73.677408,20,,
+CHSLD Notre-Dame-de-la-Merci,Montreal,QC,52.9399,-73.5491,45.590319,-73.651003,43,,Public
+CHSLD Paul-Gouin,Montreal,QC,52.9399,-73.5491,45.532565,-73.599766,14,,
+CHSLD Paul-Lizotte,Montreal,QC,52.9399,-73.5491,45.627528,-73.620285,18,,
+CHSLD Paul-Triquet,Quebec City,QC,52.9399,-73.5491,46.789404,-71.272707,13,,
+CHSLD Réal-Morel,Montreal,QC,52.9399,-73.5491,45.478406,-73.568667,1,,
+CHSLD René-Lévesque,Longeuil,QC,52.9399,-73.5491,45.567671,-73.479566,25,,
+CHSLD Résidence Saint-Joseph de Maria,Maria,QC,52.9399,-73.5491,48.17804,-65.985992,2,,
+CHSLD Robert-Cliche,Montreal,QC,52.9399,-73.5491,45.557745,-73.578993,1,,
+CHSLD Saint-Jacques,Lanaudière,QC,52.9399,-73.5491,45.963982,-73.568763,7,,Public
+CHSLD Saint-Jean-Eudes,Quebec City,QC,52.9399,-73.5491,46.851018,-71.259576,1,,
+CHSLD Saint-Jerôme,St-Jerôme,QC,52.9399,-73.5491,45.767074,-74.004301,7,,
+CHSLD Saint-Joseph-de-la-Providence,Montreal,QC,52.9399,-73.5491,45.541677,-73.690997,6,,
+CHSLD Saint-Laurent,Montreal,QC,52.9399,-73.5491,45.517179,-73.679876,21,,Private
+CHSLD Sainte-Dorothée*,Laval,QC,52.9399,-73.5491,45.523903,-73.804579,84,285,Public
+CHSLD Sainte-Rose,Laval,QC,52.9399,-73.5491,45.608081,-73.789308,1,,
+CHSLD St-Margaret,Montreal,QC,52.9399,-73.5491,45.482189,-73.589563,1,,
+CHSLD Vigi Dollard-des-Ormeaux,Dollard-des-Ormeaux,QC,52.9399,-73.5491,45.480416,-73.815913,64,,Private
+CHSLD Vigi Mont-Royal,Montreal,QC,52.9399,-73.5491,45.525204,-73.650893,1,,
+CHSLD Vigi-Shermont,Sherbrooke,QC,52.9399,-73.5491,45.449486,-71.861388,1,,
+CHSLD Yvon-Brunet,Montreal,QC,52.9399,-73.5491,45.45409,-73.603755,68,185,Public
+Coopérative de solidarité La Brunante,Racine,QC,52.9399,-73.5491,45.492117,-72.23469,2,20,co-op
+Donald Berman Maimonides Geriatric Centre,Cote St-Luc,QC,52.9399,-73.5491,45.472088,-73.668522,4,,
+Facilities in Quebec (minus what is on this list),Quebec,QC,52.9399,-73.5491,48.9399,-73.5491,1054,,
+Federal Training Centre*,Laval,QC,52.9399,-73.5491,45.619844,-73.645256,1,,Public
+Floralies de LaSalle,LaSalle,QC,52.9399,-73.5491,45.424294,-73.608963,18,,Private
+Hope Jewish Eldercare,Montreal,QC,52.9399,-73.5491,45.493207,-73.633697,1,,
+Jardins d’Évangéline,Quebec City,QC,52.9399,-73.5491,46.848092,-71.226088,8,,Private
+Jardins Interieures,Saint-Lambert,QC,52.9399,-73.5491,45.484173,-73.486083,3,,Private
+Jeffery Hale / Saint Brigid’s*,Quebec City,QC,52.9399,-73.5491,46.796983,-71.253148,40,,Public
+L’Ermitage,Drummondville,QC,52.9399,-73.5491,45.877039,-72.482475,1,,
+L’Image d’Outremont,Montreal,QC,52.9399,-73.5491,45.518896,-73.622144,1,,
+L’Institut universitaire de gériatrie de Montréal*,Montreal,QC,52.9399,-73.5491,45.49135,-73.62337,33,,Public
+L’Unité d’hébergement de l’Hôpital LaSalle,LaSalle,QC,52.9399,-73.5491,45.421129,-73.623151,25,,Public
+Lev Tov Residence,Montreal,QC,52.9399,-73.5491,45.460422,-73.635191,2,,
+Maison l’Étincelle,Montreal,QC,52.9399,-73.5491,45.469271,-73.567893,1,,
+Manoir de Courville,Quebec City,QC,52.9399,-73.5491,46.878038,71.165231,5,,
+Manoir de l’arbre argenté,Lévis,QC,52.9399,-73.5491,46.786189,-71.181601,1,,
+Manoir du havre*,Maria,QC,52.9399,-73.5491,48.167586,-65.996591,6,,Private
+Manoir Harwood,Vaudreuil-Dorion,QC,52.9399,-73.5491,45.403606,-74.041327,8,,
+Manoir Joie de vivre RI,Sainte-Thérèse,QC,52.9399,-73.5491,45.64036,-73.838136,18,53,
+Manoir Liverpool,Saint-Romuald,QC,52.9399,-73.5491,46.753496,-71.232796,6,,
+Manoir Sherbrooke,Sherbrooke,QC,52.9399,-73.5491,45.402668,-71.944505,7,,Private
+Mental health unit Centre hospitalier de Lanaudière*,Lanaudière,QC,52.9399,-73.5491,46.041938,-73.455477,3,,Public
+Pavillon Philippe-Lapointe,Sainte-Agathe,QC,52.9399,-73.5491,46.05491,-74.28889,2,,
+Providence St-Joseph,Montreal,QC,52.9399,-73.5491,45.546299,-73.689737,1,,
+REPAIR-Champêtre,Lanaudière,QC,52.9399,-73.5491,46.080277,-73.511991,4,,Private
+Résidence Angelica,Montreal,QC,52.9399,-73.5491,45.590319,-73.651003,42,90,Private
+Résidence Eva,Lavaltrie,QC,52.9399,-73.5491,45.892511,-73.293168,6,153,Private
+Résidence Ferland,Danville,QC,52.9399,-73.5491,45.794815,-72.022085,2,27,Private
+Résidence Herron,Dorval,QC,52.9399,-73.5491,45.449046,-73.779294,33,,Private
+Résidence Le Faubourg,Lanaudière,QC,52.9399,-73.5491,45.754877,-73.430374,2,,Private
+Résidence Le Saint-Michel,Montreal,QC,52.9399,-73.5491,45.558302,-73.597012,1,,
+Résidence Marie-Clothilde,Joliette,QC,52.9399,-73.5491,46.025031,-73.443815,14,,Private
+Résidence Notre-Dame de la Victoire,Saint-Hubert,QC,52.9399,-73.5491,45.494829,-73.397597,5,,Private
+Résidence Quatre-Saisons,Valleyfield,QC,52.9399,-73.5491,45.25528,-74.127654,2,,
+Résidence Vivalis,Pointe Claire,QC,52.9399,-73.5491,45.452297,-73.835873,1,,Private
+Résidence Wilfrid-Grignon,Ste-Adele,QC,52.9399,-73.5491,45.924591,-74.14215,1,,
+Ressource Notre-Dame-de-la-Paix,Verdun,QC,52.9399,-73.5491,45.469227,-73.567852,1,,
+Snowdon Residence,Montreal,QC,52.9399,-73.5491,45.49329,-73.6259,1,,
+St. Margaret Residence,Westmount,QC,52.9399,-73.5491,45.482194,-73.589532,1,,
+UCDG Cloutier-du Rivage*,Trois-Rivières,QC,52.9399,-73.5491,46.364994,-72.504605,1,,
+Unité d’hébergement en santé mentale du Centre,Lanaudière,QC,52.9399,-73.5491,46.045481,-73.445946,4,,
+Villa Val des Arbres,Laval,QC,52.9399,-73.5491,45.606001,-73.677905,2,,
+La Loche LTC facility,La Loche,SK,52.9399,-106.4509,56.487523,-109.434709,2,,
+,,TotalCAN,,,,,4693,,
+,,TotalLTC,,,,,3783,,
