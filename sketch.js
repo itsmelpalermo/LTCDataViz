@@ -52,7 +52,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: May 10, 2020';
+	dateLine = 'Updated: May 11, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
