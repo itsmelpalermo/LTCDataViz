@@ -1,3 +1,10 @@
+/*
+Parts of this code are adapted from:
+Daniel Shiffman's Coding Train
+Coding Challenge #57: Mapping Earthquake data
+https://www.youtube.com/watch?v=ZiYdOwOrGyc&t=1348s
+*/
+
 var mapimg;
 var quoteData;
 var counter = 1;
@@ -52,7 +59,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: May 11, 2020';
+	dateLine = 'Updated: May 12, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
@@ -121,7 +128,7 @@ function setup() {
 		var quebecFacilities;
 		if (data[0] ==  'Facilities in Quebec (minus what is on this list)') {
 			var quebecFacilities = data[7]
-			textFont(bodyFont, 12);
+			textFont(bodyFont, 14);
 			textAlign(LEFT);
 			noStroke();
 			fill(241, 239, 227);
@@ -136,17 +143,17 @@ function setup() {
 			fill(48, 48, 48, 150);
 			ellipse(425, -150, totalFatalities, totalFatalities);
 			fill(241, 239, 227);
-			textSize(9);
+			textSize(11.5);
 			textAlign(CENTER);
-			text('Total Deaths in Canada: ' + numberFatalities, 400, -165, 50, 125);
+			text('Total Deaths in Canada: ' + numberFatalities, 400, -180, 50, 125);
 		} else if (data[2] == 'TotalLTC') {
 			noStroke();
 			fill(241, 239, 227, 150);
 			ellipse (425, -50, totalFatalities, totalFatalities);
 			fill(48, 48, 48);
-			textSize(9);
+			textSize(11.5);
 			textAlign(CENTER);
-			text('Total Deaths in Long Term Care: ' + numberFatalities, 388, -65, 75, 125);
+			text('Total Deaths in Long Term Care: ' + numberFatalities, 397, -75, 60, 125);
 		}
 
 		if (data[2] == 'BC') {
@@ -229,7 +236,7 @@ function setup() {
 		textAlign(CENTER);
 		textFont(bodyFont, 10);
 		fill(48, 48, 48);
-		textFont(headerFont, 12);
+		textFont(headerFont, 14);
 		text(bcSum, -180, 5);
 		text(abSum, -105, 5);
 		text(skSum, -40, 5);
@@ -268,7 +275,7 @@ function draw() {
 		text(wordsTitle, 525, 475, 450, 200);
 	}
 
-	if(frameCount % 500 === 0) {
+	if(frameCount % 250 === 0) {
 		counter++;
 	}
 }
