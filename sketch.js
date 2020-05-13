@@ -59,7 +59,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: May 12, 2020';
+	dateLine = 'Updated: May 13, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
@@ -254,7 +254,7 @@ function setup() {
 function draw() {
 	var quotes = quoteData.quotes;
 
-	if (counter > 5) {
+	if (counter > 8) {
 		counter = 1;
 	}
 
@@ -275,7 +275,7 @@ function draw() {
 		text(wordsTitle, 525, 475, 450, 200);
 	}
 
-	if(frameCount % 250 === 0) {
+	if(frameCount % 235 === 0) {
 		counter++;
 	}
 }
