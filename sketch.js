@@ -59,7 +59,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: May 18, 2020';
+	dateLine = 'Updated: May 19, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
@@ -248,6 +248,8 @@ function setup() {
 		let sourceTxt = createDiv("<a href='https://t.co/rtxyvfFyff?amp=1' target='_blank'>View Spreadsheet </a>");
 
 		sourceTxt.position(1024, 512);
+
+		//save('Date_LTCDeaths.png');
 
 }
 
