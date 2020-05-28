@@ -59,7 +59,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: May 26, 2020';
+	dateLine = 'Updated: May 27, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
@@ -249,7 +249,7 @@ function setup() {
 
 		sourceTxt.position(1024, 512);
 
-		//save('Date_LTCDeaths.png');
+		save('Date_LTCDeaths.png');
 
 }
 
