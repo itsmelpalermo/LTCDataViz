@@ -249,7 +249,7 @@ function setup() {
 
 		sourceTxt.position(1024, 512);
 
-		save('Date_LTCDeaths.png');
+		//save('Date_LTCDeaths.png');
 
 }
 
