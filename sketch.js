@@ -24,6 +24,7 @@ var onAllProvNum = [];
 var qcAllProvNum = [];
 var nsAllProvNum = [];
 var skAllProvNum = [];
+var nbAllProvNum = [];
 
 function preload() {
 	mapimg = loadImage('https://api.mapbox.com/styles/v1/mapbox/dark-v9/static/-100.3468,55.1304,2.35,0,0/1024x512?access_token=pk.eyJ1IjoiaXRzbWVscGFsZXJtbyIsImEiOiJjazlyc2gzamUweHhsM2RwamkzdHQ2cnQyIn0.Fr7rQ8k0a0AFbe45viY2aA');
@@ -59,7 +60,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: June 3, 2020';
+	dateLine = 'Updated: June 4, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
@@ -231,6 +232,17 @@ function setup() {
 					skSum += skAllProvNum[p];
 				}
 		}
+
+		if (data[2] == 'NB') {
+				var nbSum = 0;
+
+				nbProvNum = (int(data[7]));
+				nbAllProvNum.push(nbProvNum);
+
+				for (var q = 0; q < nbAllProvNum.length; q++) {
+					nbSum += nbAllProvNum[q];
+				}
+		}
 	}
 
 		textAlign(CENTER);
@@ -244,6 +256,7 @@ function setup() {
 		text(onSum, 103, 60);
 		text(qcSum, 190, 75);
 		text(nsSum, 265, 107);
+		text(nbSum, 245, 100);
 
 		let sourceTxt = createDiv("<a href='https://t.co/rtxyvfFyff?amp=1' target='_blank'>View Spreadsheet </a>");
 
