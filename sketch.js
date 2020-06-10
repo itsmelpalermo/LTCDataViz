@@ -60,7 +60,7 @@ function setup() {
 	imageMode(CENTER);
 	image(backgroundImage, 0, 0);
 
-	dateLine = 'Updated: June 7, 2020';
+	dateLine = 'Updated: June 8, 2020';
 	textAlign(RIGHT);
 	noStroke();
 	fill(241, 239, 227);
